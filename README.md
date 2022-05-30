@@ -19,4 +19,4 @@
 [instagram]: https://www.instagram.com/pudding_at_5pm/
 [webuniv]: https://web.facebook.com/kocheng.atknight
 [youtube]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg
-[dummy]: /
+[dummy]: #hi-there-im-muhammad-shalahuddin-amrullah---aka-amrul-pudding
