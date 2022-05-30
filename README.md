@@ -7,7 +7,7 @@
 ### Connect with me
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-dark.svg" />][youtube]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" />][instagram]
-[<img align="left" alt="amrul-pudding" width="22px" src="" />][facebook]
+[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/amrul-pudding/amrul-pudding/main/icon/iconmonstr-facebook-6-24.png" />][facebook]
 
 [website]: https://amrul-pudding.github.io/
 [facebook]: https://web.facebook.com/kocheng.atknight
