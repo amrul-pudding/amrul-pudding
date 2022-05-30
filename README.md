@@ -9,8 +9,10 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebook]
 
+<br />
+
 ### Language and Tools:
-[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][visual studio code]
+[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/visualstudiocode.svg" />][visual studio code]
 
 [website]: https://amrul-pudding.github.io/
 [facebook]: https://web.facebook.com/kocheng.atknight
