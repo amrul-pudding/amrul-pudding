@@ -1,5 +1,8 @@
 ### Hi there, I'm Muhammad Shalahuddin Amrullah - aka [amrul-pudding][website]
 
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
+[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+
 ## I'm a college student
 - 👨‍🎓 I'm currently study at [Universitas Negeri Malang][webuniv]
 - 🔥 I'm currently learning everything
