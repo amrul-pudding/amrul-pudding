@@ -5,9 +5,9 @@
 - 🔥 I'm currently learning everything
 
 ### Connect with me
-- [youtube][youtube]
-- [instagram][instagram]
-- [facebook][facebook]
+[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][youtube]
+[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebook]
 
 [website]: https://amrul-pudding.github.io/
 [facebook]: https://web.facebook.com/kocheng.atknight
