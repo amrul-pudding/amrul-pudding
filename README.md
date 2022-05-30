@@ -11,5 +11,6 @@
 
 [website]: https://amrul-pudding.github.io/
 [facebook]: https://web.facebook.com/kocheng.atknight
+[instagram]: https://www.instagram.com/amrul_pudding/
 [webuniv]: https://web.facebook.com/kocheng.atknight
 [youtube]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg
