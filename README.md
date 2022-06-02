@@ -10,7 +10,7 @@
 
 ### Connect with me:
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][youtubelight]
-[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][youtubedark]
+[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" />][youtubedark]
 
 
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
