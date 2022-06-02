@@ -22,6 +22,7 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/css.svg" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/js.svg" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/mysql.svg" />][#]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/git.svg" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg" />][#]
 
