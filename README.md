@@ -9,10 +9,10 @@
 - 🔥 I'm currently learning everything
 
 ### Connect with me:
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/youtube-dark.svg" />][youtubelight]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/youtube-light.svg" />][youtubedark]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/instagram.svg" />][instagram]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/facebook.svg" />][facebook]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/youtube-dark.svg" />][youtubelight]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/youtube-light.svg" />][youtubedark]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/instagram.svg" />][instagram]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/connectwithMe/facebook.svg" />][facebook]
 
 <br />
 
