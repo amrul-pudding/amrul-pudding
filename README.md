@@ -9,8 +9,8 @@
 - 🔥 I'm currently learning everything
 
 ### Connect with me:
-[<img class="light" align="left" alt="amrul-pudding" width="22px" src="/icons/youtube.svg" />][youtubelight]
-[<img class="dark" align="left" alt="amrul-pudding" width="22px" src="/icons/youtube.svg" />][youtubedark]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/youtube-dark.svg" />][youtubelight]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/youtube-light.svg" />][youtubedark]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebook]
 
