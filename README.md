@@ -27,9 +27,8 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-dark.svg" />][#light]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-light.svg" />][#dark]
 
-
-[<img align="left" alt="amrul-pudding" width="22px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />][#]
-[<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-dark.svg" />][#]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-dark.svg" />][#light]
+[<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-light.svg" />][#dark]
 
 [website]: https://amrul-pudding.github.io/
 [facebook]: https://web.facebook.com/kocheng.atknight
