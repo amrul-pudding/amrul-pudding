@@ -23,10 +23,8 @@
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/js.svg" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/mysql.svg" />][#]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/git.svg" />][#]
-
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-dark.svg" />][#light]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/github-light.svg" />][#dark]
-
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-dark.svg" />][#light]
 [<img align="left" alt="amrul-pudding" width="22px" src="/icons/langandTool/terminal-light.svg" />][#dark]
 
