@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Shalahuddin Amrullah - aka [amrul-pudding][website]
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrZPSPaosi_BCStWEbHuXCg?style=for-the-badge)
-![Website](https://img.shields.io/website?label=amrul-pudding&style=for-the-badge&url=https%3A%2F%2Famrul-pudding.github.io%2F)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrZPSPaosi_BCStWEbHuXCg?style=for-the-badge)[youtube]
+![Website](https://img.shields.io/website?label=amrul-pudding&style=for-the-badge&url=https%3A%2F%2Famrul-pudding.github.io%2F)[website]
 
 
 ## I'm a college student
