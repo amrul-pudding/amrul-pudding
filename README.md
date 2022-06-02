@@ -9,8 +9,8 @@
 - 🔥 I'm currently learning everything
 
 ### Connect with me:
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/youtube-dark.svg" />][youtubelight]
-[<img align="left" alt="amrul-pudding" width="22px" src="/icons/youtube-light.svg" />][youtubedark]
+[<img class="light" align="left" alt="amrul-pudding" width="22px" src="/icons/youtubesvg" />][youtubelight]
+[<img class="dark" align="left" alt="amrul-pudding" width="22px" src="/icons/youtubesvg" />][youtubedark]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />][instagram]
 [<img align="left" alt="amrul-pudding" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg" />][facebook]
 
@@ -33,4 +33,4 @@
 [youtube]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg
 [youtubelight]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-light-mode-only
 [youtubedark]: https://www.youtube.com/channel/UCrZPSPaosi_BCStWEbHuXCg#gh-dark-mode-only
-[dummy]: #hi-there-im-muhammad-shalahuddin-amrullah---aka-amrul-pudding
+[dummy]: #
