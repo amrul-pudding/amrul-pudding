@@ -1,5 +1,9 @@
 ### Hi there, I'm Muhammad Shalahuddin Amrullah - aka [amrul-pudding][website]
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrZPSPaosi_BCStWEbHuXCg?style=for-the-badge)][youtube]
+
+
+
 
 ## I'm a college student
 - 👨‍🎓 I'm currently study at [Universitas Negeri Malang][webuniv]
