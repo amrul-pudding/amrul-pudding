@@ -9,8 +9,8 @@
 - 🔥 I'm currently learning everything
 
 ### Connect with me:
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website]([./img/youtube-light.svg](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg))](https://youtube.com/codestackr#gh-light-mode-only)
+[![website]([./img/youtube-dark.svg](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg))](https://youtube.com/codestackr#gh-dark-mode-only)
 
 
 
